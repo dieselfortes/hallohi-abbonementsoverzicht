@@ -1,0 +1,42 @@
+.Abbonement {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: hsl(276, 93%, 73%);
+    padding: 10px;
+}
+.Snelheid {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: hsl(0, 0%, 0%);
+    padding: 10px;
+}
+.Snelheid {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+      background-color: hsl(0, 0%, 0%);
+    padding: 10px;
+}
+.Data {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: hsl(0, 0%, 0%);
+    padding: 10px;
+}
+.Maandprijs {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: hsl(0, 0%, 0%);
+    padding: 10px;
+}
+.Basic{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+      background-color: hsl(241, 77%, 80%);
+    padding: 10px;
+}
